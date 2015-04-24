@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  users_id: 
+  birthday: 2015-04-24 08:46:11
+  private: false
+
+two:
+  users_id: 
+  birthday: 2015-04-24 08:46:11
+  private: false
